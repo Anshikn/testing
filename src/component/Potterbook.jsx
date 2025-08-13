@@ -16,8 +16,8 @@ function Potterbook() {
 
       <table border="1">
         <tr>
-          <th>Title Of books</th>
-          <th>Description Of boooks</th>
+          <th>Title Of books ARe</th>
+          <th>Description Of heuccj boooks</th>
         </tr>
         {books.map(book =>
           <tr>
